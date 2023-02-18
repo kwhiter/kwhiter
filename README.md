@@ -20,5 +20,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/faisal-676072258/" target="blank"><img align="center" src="https://github.com/kwhiter/kwhiter/blob/main/src/in.png" alt="kwhiter" height="40" width="40" target="_blank" /></a>
+<a href="https://www.linkedin.com/in/faisalkun/" target="blank"><img align="center" src="https://github.com/kwhiter/kwhiter/blob/main/src/in.png" alt="kwhiter" height="40" width="40" target="_blank" /></a>
 <a href="https://www.instagram.com/heeisal/" target="blank"><img align="center" src="https://github.com/kwhiter/kwhiter/blob/main/src/ig.png" alt="kwhiter" height="50" width="50" target="_blank" /></a>
