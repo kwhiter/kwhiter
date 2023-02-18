@@ -12,13 +12,13 @@
 - ⚡ Fun fact: I spend almost 6 hours to reading some novel and books.
 - 📫 How to reach me **rangkutifaisal25@gmail.com**
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alfiyansya&show_icons=true&locale=en&layout=compact" alt="alfiyansya" /></p> --> 
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kwhiter&show_icons=true&locale=en&layout=compact" alt="alfiyansya" /></p> --> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwhiter&show_icons=true&hide=issues,prs&cache_seconds=86400&theme=algolia)
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfiyansya&show_icons=true&hide=issues,prs&cache_seconds=86400&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwhiter&show_icons=true&hide=issues,prs&cache_seconds=86400&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/faisal-676072258/" target="blank"><img align="center" src="https://github.com/kwhiter/kwhiter/blob/main/src/in.png" alt="faisal" height="40" width="40" /></a>
-<a href="https://www.instagram.com/heeisal/" target="blank"><img align="center" src="https://github.com/kwhiter/kwhiter/blob/main/src/ig.png" alt="Alfiyansya" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/faisal-676072258/" target="blank"><img align="center" src="https://github.com/kwhiter/kwhiter/blob/main/src/in.png" alt="kwhiter" height="40" width="40" targat="_blank" /></a>
+<a href="https://www.instagram.com/heeisal/" target="blank"><img align="center" src="https://github.com/kwhiter/kwhiter/blob/main/src/ig.png" alt="kwhiter" height="50" width="50" targat="_blank" /></a>
