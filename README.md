@@ -11,11 +11,7 @@
 - 💬 Ask me about Android and web development.
 - 📫 How to reach me **rangkutifaisal25@gmail.com**
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kwhiter&show_icons=true&locale=en&layout=compact" alt="alfiyansya" /></p> --> 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwhiter&show_icons=true&hide=issues,prs&cache_seconds=86400&theme=algolia)
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwhiter&show_icons=true&hide=issues,prs&cache_seconds=86400&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
