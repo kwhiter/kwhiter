@@ -6,10 +6,9 @@
 
 <h5>I'm Faisal, an Android and Web developer from North Sumatera, Indonesia.</h5>
 
-- 👯 I’m looking to collaborate on an Open-Source Android Development project
-- 💼 I’m looking for Android or Web developer Jobs (Remote/On-Site in Indonesia)
-- 💬 Ask me about Android and web development 
-- ⚡ Fun fact: I spend almost 6 hours to reading some novel and books.
+- 👯 I’m looking to collaborate on an Open-Source Android Development project.
+- 💼 I’m looking for Android or Web developer Jobs (Remote/On-Site in Indonesia).
+- 💬 Ask me about Android and web development.
 - 📫 How to reach me **rangkutifaisal25@gmail.com**
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kwhiter&show_icons=true&locale=en&layout=compact" alt="alfiyansya" /></p> --> 
