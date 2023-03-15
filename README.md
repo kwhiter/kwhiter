@@ -11,7 +11,6 @@
 - 💬 Ask me about Android and web development.
 - 📫 How to reach me **rangkutifaisal25@gmail.com**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwhiter&show_icons=true&hide=issues,prs&cache_seconds=86400&theme=algolia)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
